@@ -8,7 +8,7 @@ Estudo sobre os conceitos em Python
  
  2 - Estruturas Avançadas: Lista, Tupla, String, Dicionários, Estruturas de Repetição - For e Funções
  
- 3 - Aplicações
+ 3 - Aplicações: Manipulação de Arquivos, Arquivos CSV, APIs
  
 
 
