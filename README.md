@@ -1,6 +1,6 @@
 # Python Basics
 
-O programa < Div >ersidade Tech em parceria com a Let's Code promoveu um curso de Python voltado para Dados.
+O programa < Div >ersidade Tech em parceria com a Let's Code promoveu um curso de Python Básico.
 
 Estudo sobre os conceitos em Python
 
